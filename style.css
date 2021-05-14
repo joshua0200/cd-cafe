@@ -1,0 +1,76 @@
+h1.a{
+    font-family: serif;
+    font: Georgia;
+    font-size: 60px;
+    font-style: normal;
+    color: white;
+    margin: 0%;
+}
+h1.b{
+    font-family:Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    text-align: justify;
+}
+h2.a{
+    font-family: Tahoma, sans-serif;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+h2.b{
+    font-family:Verdana, Tahoma, sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+p.p1{
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    color: #493323;
+    
+}
+p.p2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+}
+.topnav{
+    background-color: white;
+}
+.topnav a{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    color: #493323;
+}
+div.ad1{
+    border-style: none;
+    border-color: white;
+    width: 25%;
+    padding: 5px;
+    padding-bottom: 36%;
+    position: absolute;
+    left: 25px;
+    top: 290px;
+}
+div.ad2{
+    border-style: none;
+    border-color: white;
+    width: 25%;
+    padding: 5px;
+    padding-bottom: 53%;
+    position: absolute;
+    right: 25px;
+    top: 290px;
+}
+div.main{
+    border-style: none;
+    clear: both;
+    padding: 5px;
+    border-color: black;
+}
